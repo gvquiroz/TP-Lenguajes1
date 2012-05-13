@@ -72,7 +72,7 @@ public class MarioBros implements Plomero {
 		}	
 	}
 /**
- * Busca un primer caño horizontal empezando desde la columna posterior al caño encontrado 
+ * Busca un primer caño horizontal empezando desde la columna del caño encontrado 
  * (en el caso de que no hubiesen caños anteriormente empieza de la columna 0)
  * guarda la fila y la columna del primer caño encontrado
  * busca un segundo caño horizontal empezando desde la columan posterior al caño encontrado
